@@ -6,5 +6,8 @@ space to explore digital world
 #### 2. Recommend neighborhood of Bangkok for Authentic Thai restaurant
 #### 3. Convolutional NN_Fashion MNIST Classification
 
-## Courses assignments
-#### 1. 
+## Course assignments
+#### 1. Collaborative Filtering
+#### 2. Content Based Filtering
+#### 3. Structured_data
+#### 4. Pre-trained-Models (resnet18) with PyTorch
