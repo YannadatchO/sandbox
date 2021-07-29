@@ -3,8 +3,9 @@ space to explore digital world
 
 ## Project Capstone
 1. Bellabeat Data Analysis Cases Study
-2. Recommend neighborhood of Bangkok for Authentic Thai restaurant
-3. Convolutional NN_Fashion MNIST Classification
+2. https://raw.githack.com/YannadatchO/sandbox/main/test.html
+3. Recommend neighborhood of Bangkok for Authentic Thai restaurant
+4. Convolutional NN_Fashion MNIST Classification
 
 ## Course assignments
 1. Collaborative Filtering
