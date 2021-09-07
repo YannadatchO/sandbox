@@ -1,12 +1,14 @@
 # sandbox
 space to explore digital world 
 
-## Project Capstone
+## Data Analytic Project Capstone
 1. Query SQL and PowerBI 
 2. Bellabeat Data Analysis Cases Study
 3. Cyclistic Bikeshare DataAnalysis Case study https://raw.githack.com/YannadatchO/sandbox/main/Cyclistic_bike_share_DataAnalysis_casestudy_20210719.html
-4. Recommend neighborhood of Bangkok for Authentic Thai restaurant
-5. Convolutional NN_Fashion MNIST Classification
+
+## Data Science Project Capstone
+1. Recommend neighborhood of Bangkok for Authentic Thai restaurant
+2. Convolutional NN_Fashion MNIST Classification
 
 ## Course assignments
 1. Collaborative Filtering
