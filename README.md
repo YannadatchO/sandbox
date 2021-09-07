@@ -2,7 +2,7 @@
 space to explore digital world 
 
 ## Data Analytic Project Capstone
-1. Query SQL and PowerBI 
+1. Query SQL and PowerBI https://raw.githack.com/YannadatchO/sandbox/main/Assignment_Query_SQL_20210831.html
 2. Bellabeat Data Analysis Cases Study
 3. Cyclistic Bikeshare DataAnalysis Case study https://raw.githack.com/YannadatchO/sandbox/main/Cyclistic_bike_share_DataAnalysis_casestudy_20210719.html
 
