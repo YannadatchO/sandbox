@@ -2,9 +2,10 @@
 space to explore digital world 
 
 ## Data Analytic Project Capstone
-1. Query SQL and PowerBI https://raw.githack.com/YannadatchO/sandbox/main/Assignment_Query_SQL_20210831.html
-2. Bellabeat Data Analysis Cases Study https://github.com/YannadatchO/sandbox/blob/main/Bellabeat_DataAnalysis_casestudy_20210712.md
-3. Cyclistic Bikeshare DataAnalysis Case study https://raw.githack.com/YannadatchO/sandbox/main/Cyclistic_bike_share_DataAnalysis_casestudy_20210719.html
+1. M5 Wallmart RetailGoods EDA https://raw.githack.com/YannadatchO/sandbox/main/M5_wallmart_retailgoods_EDA_20211018.html
+2. Query SQL and PowerBI https://raw.githack.com/YannadatchO/sandbox/main/Assignment_Query_SQL_20210831.html
+3. Bellabeat Data Analysis Cases Study https://github.com/YannadatchO/sandbox/blob/main/Bellabeat_DataAnalysis_casestudy_20210712.md
+4. Cyclistic Bikeshare DataAnalysis Case study https://raw.githack.com/YannadatchO/sandbox/main/Cyclistic_bike_share_DataAnalysis_casestudy_20210719.html
 
 ## Data Science Project Capstone
 1. Recommend neighborhood of Bangkok for Authentic Thai restaurant
